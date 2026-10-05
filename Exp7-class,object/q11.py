@@ -1,4 +1,7 @@
-# Q11. Create a class ShoppingCart with customer name and cart ID. Initialize these values using a constructor. Implement methods to add products, remove products, and calculate the total bill. Use a destructor to display a message when the shopping cart object is destroyed.
+# Q11. Create a class ShoppingCart with customer name and cart ID. 
+# Initialize these values using a constructor. 
+# Implement methods to add products, remove products, and calculate the total bill. 
+# Use a destructor to display a message when the shopping cart object is destroyed.
 
 class ShoppingCart:
     def __init__(self, customer_name, cart_id):

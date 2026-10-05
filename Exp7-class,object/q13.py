@@ -1,4 +1,7 @@
-# Q13. Create a class StudentResult with student name and marks in five subjects. Use a constructor to initialize the details. Define methods to calculate total, percentage, and grade. Implement a destructor to display a suitable message.
+# Q13. Create a class StudentResult with student name and marks in five subjects. 
+# Use a constructor to initialize the details. 
+# Define methods to calculate total, percentage, and grade. 
+# Implement a destructor to display a suitable message.
 
 class StudentResult:
     def __init__(self, name, m1, m2, m3, m4, m5):

@@ -1,4 +1,5 @@
-# Q9. Design an ATM class that allows a user to check balance, deposit money, withdraw money, and display account details. Create an object of the class and implement the operations through a menu-driven program.
+# Q9. Design an ATM class that allows a user to check balance, deposit money, withdraw money, and display account details. 
+# Create an object of the class and implement the operations through a menu-driven program.
 
 class ATM:
     def __init__(self, account_no, name, balance):

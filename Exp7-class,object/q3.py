@@ -1,4 +1,5 @@
-# Q3. Create a class Rectangle with attributes length and breadth. Define methods to calculate area and perimeter.
+# Q3. Create a class Rectangle with attributes length and breadth. 
+# Define methods to calculate area and perimeter.
 
 class Rectangle:
     def __init__(self, length, breadth):

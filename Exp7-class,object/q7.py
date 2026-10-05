@@ -1,4 +1,5 @@
-# Q7. Create a class MobilePhone with attributes brand, model, storage, and price. Define methods to display specifications and calculate the price after discount.
+# Q7. Create a class MobilePhone with attributes brand, model, storage, and price. 
+# Define methods to display specifications and calculate the price after discount.
 
 class MobilePhone:
     def __init__(self, brand, model, storage, price):

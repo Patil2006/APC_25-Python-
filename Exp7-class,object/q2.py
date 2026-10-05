@@ -1,4 +1,5 @@
-# Create a class Employee with attributes emp_id, name, and basic_salary. Define methods to calculate HRA, DA, and gross salary.
+# Create a class Employee with attributes emp_id, name, and basic_salary. 
+# Define methods to calculate HRA, DA, and gross salary.
 
 class Employee:
     def __init__(self, emp_id, name, basic_salary):

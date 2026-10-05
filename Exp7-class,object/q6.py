@@ -1,4 +1,5 @@
-# Q6. Create a class ElectricityBill containing consumer number, consumer name, and units consumed. Define a method to calculate the electricity bill according to different unit slabs.
+# Q6. Create a class ElectricityBill containing consumer number, consumer name, and units consumed. 
+# Define a method to calculate the electricity bill according to different unit slabs.
 
 class ElectricityBill:
     def __init__(self, consumer_no, consumer_name, units):

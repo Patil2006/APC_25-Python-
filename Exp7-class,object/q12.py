@@ -1,4 +1,6 @@
-# Q12. Create a class FoodOrder with order ID, customer name, food item, quantity, and price. Use a constructor to initialize the order. Define a method to calculate the total bill including tax. Implement a destructor to display an order completion message.
+# Q12. Create a class FoodOrder with order ID, customer name, food item, quantity, and price. 
+# Use a constructor to initialize the order. Define a method to calculate the total bill including tax. 
+# Implement a destructor to display an order completion message.
 
 class FoodOrder:
     def __init__(self, order_id, customer_name, food_item, quantity, price):

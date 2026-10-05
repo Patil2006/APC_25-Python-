@@ -1,4 +1,5 @@
-# Q4. Create a class Circle with an attribute radius. Define methods to calculate the area and circumference of the circle.
+# Q4. Create a class Circle with an attribute radius. 
+# Define methods to calculate the area and circumference of the circle.
 
 import math
 

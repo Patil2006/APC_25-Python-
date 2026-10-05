@@ -1,4 +1,5 @@
-# Q8. Create a class Patient containing patient ID, name, age, disease, and consultation fee. Define methods to display patient information and calculate the total bill.
+# Q8. Create a class Patient containing patient ID, name, age, disease, and consultation fee.
+# Define methods to display patient information and calculate the total bill.
 
 class Patient:
     def __init__(self, patient_id, name, age, disease, consultation_fee):

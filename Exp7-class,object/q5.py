@@ -1,4 +1,5 @@
-# Q5. Create a class Book containing book_id, title, author, and price. Create objects for three books and display their information.
+# Q5. Create a class Book containing book_id, title, author, and price. 
+# Create objects for three books and display their information.
 
 class Book:
     def __init__(self, book_id, title, author, price):

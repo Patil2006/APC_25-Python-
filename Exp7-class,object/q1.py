@@ -1,4 +1,5 @@
-# Create a class Student with attributes such as roll_no, name, and marks. Create objects for multiple students and display their details and percentage.
+# Create a class Student with attributes such as roll_no, name, and marks. 
+# Create objects for multiple students and display their details and percentage.
 
 class Student:
     def __init__(self, roll_no, name, marks):

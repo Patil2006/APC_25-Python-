@@ -1,4 +1,5 @@
-# Q10. Create a class Vehicle containing vehicle number, model, rental rate, and availability. Implement methods to rent and return a vehicle and calculate rental charges based on the number of days.
+# Q10. Create a class Vehicle containing vehicle number, model, rental rate, and availability. 
+# Implement methods to rent and return a vehicle and calculate rental charges based on the number of days.
 
 class Vehicle:
     def __init__(self, vehicle_no, model, rental_rate, availability):
