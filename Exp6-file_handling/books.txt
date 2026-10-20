@@ -1,4 +1,0 @@
-101,Python Basics,John,Available
-102,Java Programming,James,Available
-103,C Programming,Robert,Issued
-1,aai,sham,Available
